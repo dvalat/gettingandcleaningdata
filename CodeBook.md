@@ -53,6 +53,7 @@ Transformations applied to the source data
 ------------------------------------------
 
 The transformations applied are the following:
+
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set.
@@ -63,6 +64,7 @@ The transformations applied are the following:
 ----------------------------------
 
 The transformations steps done in the file "run_analysis.R" are:
+
 1. Test if the required packages "data.table" and "reshape2" are installed. If it is not the case, they are installed.
 2. Read the test and train data.
 3. Read the features and activity labels.

@@ -9,15 +9,15 @@ Description of the raw data
 ---------------------------
 
 * Test set:
-- File "x_test.txt": contains the features un-labeled. 
-- File "y_test.txt": contains the activity labels.
-- File "subject_test.txt" : contains the test subjects.
+1. File "x_test.txt": contains the features un-labeled. 
+2. File "y_test.txt": contains the activity labels.
+3. File "subject_test.txt" : contains the test subjects.
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 * Training set:
-- File "x_train.txt": contains the features un-labeled. 
-- File "y_train.txt": contains the activity labels.
-- File "subject_train.txt" : contains the train subjects.
+1. File "x_train.txt": contains the features un-labeled. 
+2. File "y_train.txt": contains the activity labels.
+3. File "subject_train.txt" : contains the train subjects.
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 Description of the script and the tidy dataset

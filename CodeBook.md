@@ -70,5 +70,5 @@ The transformations steps done in the file "run_analysis.R" are:
 3. Read the features and activity labels.
 4. Extract the mean and standard deviation column names and data.
 5. Process the data: process train then test data sets.
-6. Merge the data sets
-7. Create the file "tidy_data_set.txt" file which contains the merged data set
+6. Merge the data sets.
+7. Create the file "tidy_data_set.txt" file which contains the merged data set.
